@@ -1,4 +1,5 @@
-package com.autobots.java.lambda;
+/*package com.autobots.java.lambda;
 
 public interface MathOperation {
 }
+*/

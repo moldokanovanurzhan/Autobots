@@ -1,4 +1,4 @@
-package bankApplication;
+/*package bankApplication;
 
     public class BankDemo {
         public static void main(String[] args) throws Exception {
@@ -20,4 +20,4 @@ package bankApplication;
 
         }
     }
-}
+}*/

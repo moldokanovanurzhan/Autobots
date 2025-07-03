@@ -1,4 +1,4 @@
-import bankApplication.BankBase;
+/*import bankApplication.BankBase;
 
 public class MBank extends BankBase {
 
@@ -41,4 +41,4 @@ public class MBank extends BankBase {
 
     }
 
-}
+}*/

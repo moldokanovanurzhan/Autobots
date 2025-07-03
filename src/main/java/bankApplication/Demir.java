@@ -1,4 +1,4 @@
-package bankApplication;
+/*package bankApplication;
 
     public class Demir extends BankBase{
 
@@ -42,3 +42,4 @@ package bankApplication;
         }
     }
 }
+*/

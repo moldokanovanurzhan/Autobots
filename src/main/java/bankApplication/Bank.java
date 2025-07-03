@@ -1,4 +1,4 @@
-package bankApplication;
+/*package bankApplication;
 
 public interface Bank {
 
@@ -11,4 +11,4 @@ public interface Bank {
             recipient.deposit(transferAmount);
         }
     }
-}
+*/

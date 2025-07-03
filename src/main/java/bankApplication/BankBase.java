@@ -1,4 +1,4 @@
-package bankApplication;
+/*package bankApplication;
 
 import java.util.HashSet;
 import java.util.Objects;
@@ -65,4 +65,4 @@ import java.util.Set;
             return Objects.hash(accountNumber, routingNumber, allBankRecords);
         }
     }
-}
+}*/
